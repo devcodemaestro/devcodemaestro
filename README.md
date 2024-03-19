@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm SangJae Lee</h1>
-<h3 align="center">I am a developer who wants to grow steadily.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devcodemaestro&label=Profile%20views&color=0e75b6&style=flat" alt="devcodemaestro" />
-  <a href="https://luckyzi.notion.site/4d92fa81982f4fff98925464a0f94bfa">
-    <img 
-        src="http://img.shields.io/badge/-notion-black?style=flat&logo=Notion&link=https://www.notion.so/b25086090877423e9e5f285b72c5a8c5"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Step%20after%20step%20the%20ladder%20is%20ascended.&descAlignY=75&descAlign=62" />
+      
 
-  <a href="https://comp-jae.tistory.com/">
-    <img 
-        src="https://img.shields.io/badge/Tistory-eb531f.svg?&logo=tistory&link=https://comp-jae.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcodemaestro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devcodemaestro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devcodemaestro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devcodemaestro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devcodemaestro&theme=github&utcOffset=8)
+
+
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devcodemaestro&show_icons=true&locale=en" alt="devcodemaestro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcodemaestro&show_icons=true&locale=en&layout=compact" alt="devcodemaestro" />
 </p>
-
-
-
-
-<p align="left">
-</p>
-
 <div align=center><h1>🛠 STACKS 🛠</h1></div>
 
 <div align=center> 
@@ -55,18 +50,13 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-       <br>
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     
 </div>
+<h1>💭 ABOUT ME 💭</h1>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devcodemaestro&show_icons=true&locale=en" alt="devcodemaestro" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcodemaestro&show_icons=true&locale=en&layout=compact" alt="devcodemaestro" />
-</p>
-
-<p>&nbsp;</p>
-
-<p></p>
+<a href="https://comp-jae.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://www.notion.so/b25086090877423e9e5f285b72c5a8c5" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+</div>
