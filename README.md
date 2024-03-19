@@ -1,5 +1,3 @@
-### About me
-
 <h1 align="center">Hi 👋, I'm SangJae Lee</h1>
 <h3 align="center">I am a developer who wants to grow steadily.</h3>
 
