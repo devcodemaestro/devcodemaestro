@@ -6,10 +6,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcodemaestro&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devcodemaestro&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devcodemaestro&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devcodemaestro&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devcodemaestro&theme=github&utcOffset=8)
-
-
 
 
 <p>
