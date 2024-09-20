@@ -4,7 +4,7 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Tesla&logoColor=white&link=https://comp-jae.tistory.com/)](https://comp-jae.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%83%81%EC%9E%AC-%EC%9D%B4-21b861309)](https://www.linkedin.com/in/%EC%83%81%EC%9E%AC-%EC%9D%B4-21b861309) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=Notion&logoColor=black&link=https://luckyzi.notion.site/Developer-4d92fa81982f4fff98925464a0f94bfa)](https://luckyzi.notion.site/Developer-4d92fa81982f4fff98925464a0f94bfa)
 
-- 💻 꾸준히 도전하는 주니어 웹 프론트엔드 엔지니어입니다.
+- 💻 사용자 경험을 우선으로 생각하는 프론트엔드 엔지니어입니다.
 - 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
 - 😎 더 나은 사람이 되기 위해 노력하고 있습니다.
 
